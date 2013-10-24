@@ -8,5 +8,3 @@ multiple screens of info, tablet form, phone form, chromecast streaming.
 ****************
 
 10/04/2013
-Added pdf with art work for water, and sample questionaire
--- Floyd Gomez
