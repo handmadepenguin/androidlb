@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Julian Reyes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="detail_view">Detail view</string>
+    <string name="feedbacktitle">Detail view</string>
+    <string name="saysomething">Tweeting all over this phone</string>
+    <string name="dummy_text">Empty</string>
+    <string name="film_cell">Film Cell Image</string>
+    <string name="activity_image">Activity Image</string>
+    <string name="large_text">Large Text</string>
+    <string name="instructions">Please Swipe</string>
+    <string name="description">Android Page Curl is an OpenSource implementation of a book like page curl. It is very simple but yet 
+            effective. Fore more information and the source code check the projects site: http://code.google.com/p/android-page-curl\n\n
+            Android Page Curl has been created by Moritz Wundke from http://www.MysticTreeGames.com\n\n
+            Choose an example and try.</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tut_titles">
+    <item>About Julian</item>
+    <item>Video Segments</item>
+    <item>J-Vlog</item>
+    <item>Hobnobbing</item>
+    <item>Photos</item>
+    <item>What is New</item>
+    <item>Press</item>
+    <item>Charity</item>
+    </string-array>
+    <string-array name="main_menu_images">
+    <item>aboutjulian</item>
+    <item>videosegments</item>
+    <item>jvlog</item>
+    <item>hobnobbing</item>
+    <item>photos</item>
+    <item>whatsnew</item>
+    <item>press</item>
+    <item>charity</item>
+    </string-array>
+    <string-array name="about_julian_titles">
+    <item>Known For</item>
+    <item>Growing Up</item>
+    <item>Other Credits</item>
+    <item>Family Life</item>
+    <item>Spare Time</item>
+    </string-array>
+    <string-array name="about_julian_content">
+    <item>Best known for his work hosting the long running teen magazine show Teen Talk from 2003 to 2007, Julian Vincent Reyes was born in Delano/Bakersfield California on September 27, 1970. Later spending his teenage years from 1982 to 1987 in Bedford Texas, later moving back to California this time calling Los Angeles home. Julian graduated from both Woodrow Wilson High School and California State High School for the Performing Arts in 1990. Continuing his education, Julian attended California State University Los Angeles receiving his degree in Radio Television Film/Broadcast Journalism, double minor in Communications and Theater Arts.</item>
+    <item>Growing up Julian was extremely hyper and his mother Connie Madrid decided to place Julian in various activities and lord and behold performing and entertaining others was in his blood. At that point Julian landed an agents and began auditioning in Hollywood while living in Bedford TX. Once Julian started landing roles, his mother moved them both to LA/Hollywood. Currently you can see Julian co-hosting the Entertainment News Magazine Show  Liv N DiverseCity LNDC.TV.  And you can also catch Julian as the main Entertainment Correspondent for the nationally Syndicated News Magazine Show Inside City TV based out of Dallas/Ft. Worth TX.</item>
+    <item>Julians other television credits include, reporting for the local LA News Magazine Show Live In LA on channel 35, co-hosting the Emmy award winning News Magazine Show Latin Eyes on ABC, co-hosting the show Sunset Stripped and the Lying Lucy Awards Show for LA channel 36, Reporting for both LA Business Confidential and LATV Local News, co-anchoring the Annual Tournament of Roses Parade coverage for channel 3, and hosting the profiles show Hawthorne Profiles Up Close and Personal on channel 22. Julian also reported for KHSL CBS Ch 12 News and KNVN NBC Ch 24 in Northern California.</item>
+    <item>Julian resides in Los Angeles, with his wife Vanessa, and two dogs Daytona and Daquiri, but calls Delano California, and Dallas/Ft. Worth Texas home. Reyes credits his wife Vanessa Reyes, parents Connie  Charles Madrid, Petra Heredia, and Henry Reyes for the person and success thus far. He also credits his brother(s) Enrique Reyes, Jason Ellefson Joel De Long, Robert Lancaster, and Richard Heredia, and his cousin(s) Anna Medina, Ernie Garza, Antoinette Martinez, Catalina Herrera, Sonia Meza, Sunni Lopez, Donnie Anderson, and Nick Torrez, for all their love and support. </item>
+    <item>In his spare time Julian enjoys exercising, reading, writing, traveling, and doing charity work for the Lung Cancer Alliance, and other organizations, plus hanging out with family and close friends. Julian is currently working on a charity cancer scrapbook in honor of his mother Connie G Madrid and others battling cancer. </item>
+    </string-array>
+    <string-array name="tut_links">
+    <item>http://mobile.tutsplus.com/tutorials/mobile-design-tutorials/80s-phone-app-slicing/</item>
+    <item>http://mobile.tutsplus.com/articles/news/best-of-tuts-in-february-2011/</item>
+    <item>http://mobile.tutsplus.com/tutorials/corona/create-a-brick-breaker-game-with-the-corona-sdk-game-controls/</item>
+    <item>http://mobile.tutsplus.com/tutorials/mobile-design-tutorials/mobile-design_png-or-jpg/</item>
+    <item>http://mobile.tutsplus.com/tutorials/android/android-tablet-design/</item>
+    <item>http://mobile.tutsplus.com/tutorials/appcelerator/build-a-titanium-mobile-pizza-ordering-app-order-form-setup/</item>
+    <item>http://mobile.tutsplus.com/tutorials/corona/corona-sdk_brick-breaker/</item>
+    <item>http://mobile.tutsplus.com/tutorials/android/android-sdk_tablet_virtual-device-configuration/</item>
+    </string-array>
+    <string-array name="desserts">
+    <item>Cupcake</item>
+    <item>Donut</item>
+    <item>Eclair</item>
+    <item>Froyo</item>
+    <item>Gingerbread</item>
+    <item>Honeycomb</item>
+    <item>Ice Cream Sandwich</item>
+    <item>Jelly Bean</item>
+    <item>Key Lime Pie</item>
+    </string-array>
+</resources>

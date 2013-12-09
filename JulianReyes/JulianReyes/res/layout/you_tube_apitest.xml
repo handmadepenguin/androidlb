@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center_horizontal">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello YouTube API"
+        android:layout_margin="12dip"/>
+   <com.google.android.youtube.player.YouTubePlayerView
+              android:id="@+id/youtube_view"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_margin="12dip"/>
+</LinearLayout>

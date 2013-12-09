@@ -1,0 +1,16 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw600dp devices (e.g. 7" tablets) here.
+    -->
+    <dimen name="AboutJulianMargins">20dp</dimen>
+    <dimen name="AboutJulianTextSize">28sp</dimen>
+    <dimen name="VideoListTextSize">48sp</dimen>
+   <dimen name="CustomMenuText">45sp</dimen>
+   <dimen name="CustomMenuWidth">482dp</dimen>
+   <dimen name="CustomMenuHeight">400dp</dimen>
+   <dimen name="CustomMenuPhotoHeight">400dp</dimen>
+   <dimen name="CustomMenuPhotoWidth">670dp</dimen>
+   <dimen name="CustomMenuPhotoPadding">4dp</dimen>
+</resources>

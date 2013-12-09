@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical|center_horizontal" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="@dimen/CustomMenuPhotoWidth"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:contentDescription="@string/film_cell"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_launcher" />
+
+    <ImageView
+        android:id="@+id/activityImage"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/CustomMenuHeight"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:contentDescription="@string/activity_image"
+        android:scaleType="fitXY"
+        android:src="@drawable/filmcell" />
+    
+    <TextView
+        android:id="@+id/activityName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="@string/dummy_text"
+        android:textColor="#FFF"
+        android:textSize="@dimen/CustomMenuText" />
+
+</FrameLayout>

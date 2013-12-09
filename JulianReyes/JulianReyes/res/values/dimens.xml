@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="Large">50dp</dimen>
+    <dimen name="AboutJulianMargins">20dp</dimen>
+    <dimen name="AboutJulianTextSize">14sp</dimen>
+    <dimen name="VideoListTextSize">28sp</dimen>
+    <dimen name="CustomMenuText">25sp</dimen>
+    <dimen name="CustomMenuWidth">181dp</dimen>
+    <dimen name="CustomMenuHeight">181dp</dimen>
+    <dimen name="CustomMenuPhotoWidth">344dp</dimen>
+    <dimen name="CustomMenuPhotoHeight">181dp</dimen>
+    <dimen name="CustomMenuPhotoPadding">10dp</dimen>
+    <dimen name="Regular">16dp</dimen>
+    <dimen name="None">0dp</dimen>
+
+</resources>
