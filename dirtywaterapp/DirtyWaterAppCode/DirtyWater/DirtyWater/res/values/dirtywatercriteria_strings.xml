@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="epifaunal_substrate_available_cover_name">EPIFAUNAL SUBSTRATE\u002FAVAILABLE COVER</string>
+  <string-array name="epifaunal_substrate_available_cover_criterias">
+     <item>Greater than 70\u0025 of substrate favorable for epifaunal colonization and fish cover\u003B mix of snags, submerged logs, undercut banks, cobble or other stable habitat and at stage to allow full colonization potential.</item>
+     <item>40\u002D70\u0025 mix of stable habitat\u003B well-suited for full colonization potential\u003B adequate habitat for maintenance of populations\u003B presence of additional substrate in the form of newfall, but not yet prepared for colonization.</item>
+     <item>20\u002D40\u0025 mix of stable habitat\u003B habitat availability less than desirable\u003B substrate frequently disturbed or removed</item>
+     <item>Less than 20\u0025 stable habitat\u003B lack of habitat is obvious; substrate unstable or lacking.</item>
+  </string-array>
+  <string name="embeddedness_high_gradient_name">Embeddedness \u0028high gradient\u0029</string>
+  <string-array name="embeddedness_high_gradient_criterias">
+     <item>Gravel, cobble, and boulder particles are 0\u002D25\u0025 surrounded by fine sediment. Layering of cobble provided diversity of niche space.</item>
+     <item>Gravel, cobble and boulder particles are 25\u002D50\u0025 surrounded by fine sediment.</item>
+     <item>Gravel, cobble and boulder particles are 50\u002D75\u0025 surrounded by fine sediment.</item>
+     <item>Gravel, cobble and boulder particles are more than 75\u0025 surrounded by fine sediment.</item>
+  </string-array>
+  <string name="pool_substrate_characterization_name">Pool Substrate Characterization</string>
+  <string-array name="pool_substrate_characterization_criterias">
+     <item>Mixture of substrate materials, with gravel and firm sand prevalent\u003B root mats and submerged vegetation common.</item>
+     <item>Mixture of soft sand, mud, or clay\u003A mud may be dominant\u003B some root mats and submerged vegetation present.</item>
+     <item>All mud or clay or sand bottom\u003B little or no root mat\u003B no submerged vegetation.</item>
+     <item>Hard\u002Dpan clay or bedrock\u003B no root mat or vegetation.</item>
+  </string-array>
+  <string name="velocity_depth_regime_high_gradient_name">Velocity\u002FDepth Regime \u0028high gradient\u0029</string>
+  <string-array name="velocity_depth_regime_high_gradient_criterias">
+     <item>All four velocity\u002Fdepth regime present \u0028slow\u002Ddeep, slow\u002Dshallow, fast\u002Ddeep, fast\u002Dshallow\u0029. \u0028Slow is \u003C 0.3m\u002Fs, deep is \u003E 0.5m\u0029</item>
+     <item>Only 3 of the 4 regimes present \u0028if fast\u002Dshallow is missing, score lower than missing other regimes\u0029..</item>
+     <item>Only 2 of the 4 habitat regimes present \u0028if fast\u002Dshallow or slow\u002Dshallow are missing, score low\u0029.</item>
+     <item>Dominated by 1 velocity\u002Fdepth regime \u0028usually slow\u002Ddeep\u0029.</item>
+  </string-array>
+  <string name="pool_variability_optional_low_gradient_name">Pool Variability \u0028Optional\u002Dlow gradient\u0029</string>
+  <string-array name="pool_variability_optional_low_gradient_criterias">
+     <item>Even mix of large\u002Dshallow, large\u002Ddeep, small\u002Dshallow, small\u002Ddeep pools present.</item>
+     <item>Majority of the pools large deep\u003B very few shallow.</item>
+     <item>Shallow pools much more prevalent than deep pools.</item>
+     <item>Majority of pools small\u002Dshallow or pools absent.</item>
+  </string-array>
+  <string name="sediment_deposition_name">Sediment Deposition</string>
+  <string-array name="sediment_deposition_criterias">
+     <item>Little or no enlargement of islands or point bars and less than 5\u0025 of the bottom affected by sediment deposition.</item>
+     <item>Some new increase in bar formation, mostly from gravel, sand or fine sediment\u003A 5\u003B30\u0025 of the bottom affected\u003B slight deposition in pools.</item>
+     <item>Moderate deposition of new gravel, sand or fine sediment on old and new bars\u003B 30\u003B50\u0025 of the bottom affected\u003B sediment deposits at obstructions, constructions and bends\u003B moderate deposition o pools prevalent.</item>
+     <item>Dominated by 1 velocity\u002Fdepth regime \u0028usually slow\u003Bdeep\u0029.</item>
+  </string-array>
+  <string name="channel_flow_status_name">Channel Flow Status</string>
+  <string-array name="channel_flow_status_criterias">
+     <item>Water reaches base of both lower banks, and minimal amount of channel substrate is exposed.</item>
+     <item>Water fills \u003E 75\u0025 of the available channel\u003B or \u003C 25\u0025 of channel substrate is exposed.</item>
+     <item>Water fills 25\u002D75\u0025 of the available channel, and\u002For riffle substrates are mostly exposed.</item>
+     <item>Very little water in channel and mostly present as standing pools.</item>
+  </string-array>
+  <string name="channel_alteration_name">Channel Alteration</string>
+  <string-array name="channel_alteration_criterias">
+     <item>Channelization or dredging absent or minimal\u003B stream with normal pattern.</item>
+     <item>Some channelization present, usually in areas of bridge, abutments\u003B evidence of past channelization, i.e. dredging, \u0028greater than past 20 yrs\u0029 may be present but recent channelization is not present.</item>
+     <item>Channelization may be extensive\u003B embankments or shoring structures present on both banks\u003B and 40\u002D80\u0025 of stream reach channelized and disrupted.</item>
+     <item>Bank shored with gabion or cement\u003B over 80\u0025 of the stream reach channelized and disrupted. Instream habitat greatly altered or removed entirely.</item>
+  </string-array>
+  <string name="frequency_of_riffles_or_bends_name">Frequency of Riffles \u0028or bends\u0029</string>
+  <string-array name="frequency_of_riffles_or_bends_criterias">
+     <item>Occurrence of riffles relatively frequent\u003B ratio of distance between riffles divided by width of the stream \u003C 7\u003A1 \u0028generally 5 to 7\u0029\u003B variety of habitat is key. In streams where riffles are continuous, placement of boulders or other large, natural obstruction is important.</item>
+     <item>Occurrence of riffles infrequent\u003B distance between riffles divided by the width of the stream is between 7 to 15.</item>
+     <item>Occasional riffle or bend\u003B bottom continuous provide some habitat\u003B distance between riffles divided by the width of the stream is between 15 to 25.</item>
+     <item>Generally all flat water or shallow riffles\u003B poor habitat\u003B distance between riffles divided by the width of the stream is a ration of \u003E 25</item>
+  </string-array>
+  <string name="channel_sinuosity_optional_low_gradient_name">Channel Sinuosity \u0028Optional\u002Dlow gradient\u0029</string>
+  <string-array name="channel_sinuosity_optional_low_gradient_criterias">
+     <item>The bends in the stream increase the stream length 3 to 4 times longer than if it was in a straight line. \u0028Note\u002Dchannel braiding is considered normal in coastal plains and other low lying areas. This parameter is not easily rated in these area\u0029</item>
+     <item>The bends in the stream increase the stream length 1 to 2 times longer than if it was in straight line.</item>
+     <item>The bends in the stream increase the stream length 1 to 2 times longer than if it was in straight line.</item>
+     <item>Channel Straight\u003B waterway has been channelized for a long distance.</item>
+  </string-array>
+  <string name="bank_stability_name">Bank Stability</string>
+  <string-array name="bank_stability_criterias">
+     <item>Bank stable\u003B evidence of erosion or bank failure absent or minimal\u003B little potential for future problems \u003C 5\u0025 of bank affected</item>
+     <item>Moderately stable\u003B infrequent, small areas of erosion mostly healed over. 5\u002D30\u0025 of bank in reach has areas of erosion.</item>
+     <item>Moderately unstable\u003B 30\u002D60\u0025 of bank in reach has areas of erosion\u003B high erosion potential during floods.</item>
+     <item>Unstable\u003B many eroded areas\u003B \u0022raw\u0022 areas infrequent along straight sections and bends; obvious bank sloughing\u003B 60\u002D100\u0025 of bank has erosional scars.</item>
+  </string-array>
+  <string name="vegetative_protection_name">Vegetative Protection</string>
+  <string-array name="vegetative_protection_criterias">
+     <item>More than 90\u0025 of the streambank surfaces and immediate riparian zone covered by native vegetation, including trees, understory shrubs or non woody macrophytes\u003B vegetative disruption through grazing or mowing minimal or not evident\u003B almost all plants allowed to grow naturally.</item>
+     <item>70\u002D90\u0025 of streambank surfaces covered by native vegetation, but one class of plants is not well represented\u003B disruption evidence but not affecting full plant growth potential to any great extent\u003B more than one\u002Dhalf of the potential plant stubble height remaining.</item>
+     <item>50\u002D70\u0025 of the streambank surfaces covered by vegetation\u003B disruption obvious\u003B patches of bare soil or closely cropped vegetation common\u003B less than one\u002Dhalf of the potential plant stubble height remaining.</item>
+     <item>Less than 50\u0025 of the streambank surfaces covered by vegetation\u003B disruption of streambank vegetation is very high\u003B vegetation has been removed to 5centimeters or less in average stubble height.</item>
+  </string-array>
+  <string name="riparian_vegetative_zone_width_name">Riparian Vegetative Zone Width</string>
+  <string-array name="riparian_vegetative_zone_width_criterias">
+     <item>Width of riparian zone \u003E 18 meters\u003B human activities \u0028i.e. parking lots, roadbeds, clear\u002Dcut, lawns or crops have not impacted zone.\u0029</item>
+     <item>Width of riparian zone 12\u002D18 meters\u003B human activities have impacted zone only minimally.</item>
+     <item>Width of riparian zone 12\u002D18 meters\u003B human activities have impacted zone a great deal.</item>
+     <item>Width of riparian zone \u003C 6 meters\u003B little or no riparian vegetation due to human activities.</item>
+  </string-array>
+</resources>
