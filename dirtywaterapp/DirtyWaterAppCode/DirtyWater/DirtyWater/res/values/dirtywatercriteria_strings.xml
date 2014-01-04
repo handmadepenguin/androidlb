@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="epifaunal_substrate_available_cover_name">EPIFAUNAL SUBSTRATE\u002FAVAILABLE COVER</string>
+  <string name="epifaunal_substrate_available_cover_name">Epifaunal Substrate\u002FAvailable Cover</string>
   <string-array name="epifaunal_substrate_available_cover_criterias">
      <item>Greater than 70\u0025 of substrate favorable for epifaunal colonization and fish cover\u003B mix of snags, submerged logs, undercut banks, cobble or other stable habitat and at stage to allow full colonization potential.</item>
      <item>40\u002D70\u0025 mix of stable habitat\u003B well-suited for full colonization potential\u003B adequate habitat for maintenance of populations\u003B presence of additional substrate in the form of newfall, but not yet prepared for colonization.</item>
